@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeLinda
+- 👋 Hi, I’m @CodeGT
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning HTML,CSS and JS
 - 💞️ I’m looking to collaborate on some front end projects
